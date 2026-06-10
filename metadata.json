@@ -1,0 +1,6 @@
+{
+  "name": "Excel Learning Platform",
+  "description": "An interactive, gamified platform to learn Excel with real-time spreadsheet exercises, leaderboards, personalized study paths, and AI-powered formula troubleshooting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
